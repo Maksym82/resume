@@ -3,6 +3,22 @@ body{
     background-color: #F5F7FA;
 }
 
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
 /* main styles */
 
 .main{
@@ -48,7 +64,7 @@ body{
     font-size: 14px;
     line-height: 24px;
     color: #595959;
-    width: 400px;
+    width: 600px;
 }
 
 /* project styles */
