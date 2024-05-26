@@ -168,6 +168,12 @@ ul {
 }
 
 /* education */
+.education {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
 .education-title {
   font-style: normal;
   font-weight: 700;
